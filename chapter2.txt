@@ -1,1 +1,2 @@
-Hello from chapter 2
+Hi from chapter 2.
+Good morning !
